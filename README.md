@@ -56,4 +56,8 @@ The effectiveness of AI automation depends primarily on the quality and structur
 Film productions with large crews can reduce administrative workload and generate contracts consistently using structured data and automation workflows.
 ## Workflow Diagram
 
-![Workflow](workflow/workflow-diagram.png)
+## Workflow Diagram
+
+View the interactive workflow diagram:
+
+[Open the workflow diagram](diagramma_sistema.html)
